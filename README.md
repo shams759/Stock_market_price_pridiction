@@ -1,4 +1,4 @@
-   Stock_market_price_pridiction
+
 In this project we attempt to implement machine learning approach to predict 
 stock prices. Machine learning is effectively implemented in forecasting stock 
 prices. The objective is to predict the stock prices in order to make more informed 
